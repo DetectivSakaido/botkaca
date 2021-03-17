@@ -46,7 +46,7 @@ Change config by set the corresponding environment variable name.
 #!/bin/sh
 
 # get botkaca source
-git clone https://github.com/azamaulanaaa/botkaca.git
+git clone https://github.com/shiva20991/botkaca.git
 
 # build then execute using docker image
 docker build -t azamaulanaaa/botkaca botkaca
